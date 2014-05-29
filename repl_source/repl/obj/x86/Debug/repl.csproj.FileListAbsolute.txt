@@ -1,0 +1,4 @@
+C:\Program Files\JMPS\B52\Scripts\repl\repl\bin\Debug\repl.exe
+C:\Program Files\JMPS\B52\Scripts\repl\repl\bin\Debug\repl.pdb
+C:\Program Files\JMPS\B52\Scripts\repl\repl\obj\x86\Debug\repl.exe
+C:\Program Files\JMPS\B52\Scripts\repl\repl\obj\x86\Debug\repl.pdb
