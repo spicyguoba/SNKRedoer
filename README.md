@@ -21,5 +21,4 @@ NOTE: DLLs and Exes in DLLs_input folder to be modified must signed by the same 
 
 =========================
 David Ferlemann 5.24.2014
-david.ferlemann@hydrocarbon.us
 =========================
